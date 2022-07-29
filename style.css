@@ -1,0 +1,13 @@
+.shadow-c-05 {
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .05) !important;
+}
+
+.btn-c-blue {
+    background-color: #3D4FF3;
+    border-color: #3D4FF3;
+}
+
+.btn-c-blue:hover {
+    background-color: #3040CB;
+    border-color: #3040CB;
+}
